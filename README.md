@@ -3,3 +3,4 @@ You can search the places or click on side button and allow it so that you can g
 
 I made this with reach hooks(usestate, useEffects) axios and react components
 
+Allow CRM's first and then reload it to make it work
